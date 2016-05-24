@@ -6,9 +6,9 @@ color:
   saturation: 0.21223303047008812
   rhythmicContrast: 0.3892514898907393
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#595241'
+    - '#B8AE9C'
+    - '#FFFFFF'
+    - '#ACCFCC'
+    - '#8A0917'
 name: Money.hn
