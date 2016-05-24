@@ -1,0 +1,14 @@
+layout_spectrum: 0.07113028480671346
+typography_spectrum: 0.4348980344366282
+color:
+  brandStrength: 0.09973402670584619
+  lightness: 0.2776103240903467
+  saturation: 0.21223303047008812
+  rhythmicContrast: 0.3892514898907393
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Money.hn
